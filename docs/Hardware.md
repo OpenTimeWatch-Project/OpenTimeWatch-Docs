@@ -10,7 +10,7 @@
 9. USB-C
 
 
-![TQT Pro](assets/TQT-Pro.png)
+![TQT Pro](assets/ttgotqtpro.jpeg)
 
 Near EOL due lack of functionality compared to OpenTimeWatch 1 Rev 2.
 

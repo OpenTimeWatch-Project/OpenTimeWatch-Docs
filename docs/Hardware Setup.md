@@ -15,3 +15,13 @@
 3. Solder a JST connector (included in the TQT Pro's box) to the battery charge pads on the microcontroller or directly solder the battery to the pads
 4. Solder a Stemma qt connector to the MPU6050
 5. Connect the Stemma qt connector to the TQT Pro
+
+![Image title](assets/componentslabels.jpeg)
+
+![Image title](assets/watchbackside.jpeg)
+
+![Image title](assets/speaker.jpeg)
+
+!!! note 
+
+    The accelerometer is not shown
