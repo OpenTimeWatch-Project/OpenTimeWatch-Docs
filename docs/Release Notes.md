@@ -61,6 +61,7 @@ Fixed :
 1. Better OS navigation
 
 What's new :
+
 1. Increased the pitch of the speaker demo
 2. Added a manual for OS navigation
 
