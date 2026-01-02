@@ -1,4 +1,5 @@
 ## LILYGO TQT Pro
+Specs:-
 1. Processor:- ESP32 S3
 2. RAM:- 2MB
 3. Flash:- 4MB/8MB
@@ -9,12 +10,14 @@
 8. MPU6050
 9. USB-C
 
+This watch uses a LILYGO TQT Pro as the watch with speaker, torch LED and an accelerometer attatched to it. The watch supports time synchronisation using NTP, multiple watch faces, pong game, custom background for watch face, matrix animation, torch support and battery charging.
 
 ![TQT Pro](assets/ttgotqtpro.jpeg)
 
-Near EOL due lack of functionality compared to OpenTimeWatch 1 Rev 2.
+Note:- This is only used as a POC and may not be supported in the future versions of OpenTimeWatch OS.
 
 ## OpenTimeWatch 1 Rev 1
+Specs:-
 1. Processor:- ESP32 S3
 2. RAM:- 8MB
 3. Flash:- 16MB
@@ -29,18 +32,8 @@ Near EOL due lack of functionality compared to OpenTimeWatch 1 Rev 2.
 
 ![Watch 1](assets/OpenTimeWatch1.jpg)
 
-Superseded by OpenTimeWatch 1 Rev 2.
+The first watch form the OpenTimeWatch Project, it is currently just a PCB with proper accelerometer support for step tracking, larger screen, more RAM and storage, IR transmitter support, pulse sensor support, nattery charging and micro USB for charging and uploading firmware.
 
-## OpenTimeWatch 1 Rev 2
-1. Processor:- ESP32 S3
-2. RAM:- 8MB
-3. Flash:- 16MB
-4. 3 Buttons
-6. Speaker
-7. 1.54" 128 x 128 TFT display
-8. IR transmitter
-9. MPU6050
-10. BMP280
-11. Micro USB-B
+Note:- This watch is WIP and has multiple issues, might get superseded by Rev 2.
 
-Still in development.
+
