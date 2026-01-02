@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2026-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Configurator%20Tool/</loc>
+         <lastmod>2026-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Hardware%20Setup/</loc>
+         <lastmod>2026-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Hardware/</loc>
+         <lastmod>2026-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Installation%3A%20Automatic/</loc>
+         <lastmod>2026-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Installation%3A%20Manual/</loc>
+         <lastmod>2026-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Release%20Notes/</loc>
+         <lastmod>2026-01-02</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/Usage/</loc>
+         <lastmod>2026-01-02</lastmod>
+    </url>
+</urlset>
